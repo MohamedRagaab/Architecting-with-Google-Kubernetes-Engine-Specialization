@@ -1,1 +1,2 @@
-# Architecting-with-Google-Kubernetes-Engine-Specialization
+# Architecting with Google Kubernetes Engine Specialization
+The Architecting with Google Kubernetes Engine specialization will teach you how to implement solutions using Google Kubernetes Engine, or GKE, including building, scheduling, load balancing, and monitoring workloads, as well as providing for discovery of services, managing role-based access control and security, and providing persistent storage to these applications.
